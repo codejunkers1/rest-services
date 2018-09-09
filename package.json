@@ -1,0 +1,24 @@
+{
+  "name": "simple-rest-services",
+  "version": "1.0.2",
+  "description": "Packages of all rest conditions with auth header",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codejunkers1/simple-rest-services.git"
+  },
+  "keywords": [
+    "rest",
+    "auth",
+    "javascript"
+  ],
+  "author": "Venkata Sai katepalli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codejunkers1/simple-rest-services/issues"
+  },
+  "homepage": "https://github.com/codejunkers1/simple-rest-services#readme"
+}
